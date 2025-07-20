@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Haleem-17
-- 👀 I’m interested in learning all programming language.
-- 🌱 I’m currently learning Visual Basic, Java, JavaScript, and C.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta: Samtimz50.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Enjoy music and movies,food, travelling and I'm a marvel, MCU fan
-- 😃 Extra: The branch of computer science I'm considering is Software engineering, and Data Analysis.
-<!---
-Haleem-17/Haleem-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Haleem-17
+
+Web design, Web development, Frontend development, and Data analysis. I love building user-friendly apps and exploring data insights.
+
+🌱 Currently Learning
+- PHP, React, Java, C, Visual Basic
+- Software Engineering & Data Analysis
+
+💻 Working On
+- Responsive web designs on Wix, WordPress
+- Responsive web development with HTML, CSS, JavaScript
+- Data analysis projects
+- Backend skills with PHP
+
+💞️ Let’s Collaborate
+On web dev and data projects!  
+📫 Instagram: [Samtimz50](https://www.instagram.com/Samtimz50)
+
+😄 About Me
+- Pronouns: He/Him
+- Fun Fact: I code best with music and a good meal!
+- Hobbies: Coding, music, movies, food, travel
+
+🚀 Goals
+- Build innovative web apps
+- Master full-stack development
+- Leverage data for smarter solutions
+
+“Code + creativity = endless possibilities.”
