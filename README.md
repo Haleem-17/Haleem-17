@@ -1,6 +1,6 @@
 👋 Hi, I’m @Haleem-17
 
-Web design, Web development, Frontend development, and Data analysis. I love building user-friendly apps and exploring data insights.
+Web design, Web development, Frontend development, and Data analysis. I love building user-friendly webs and exploring data insights.
 
 🌱 Currently Learning
 - PHP, React, Java, C, Visual Basic
@@ -30,5 +30,7 @@ adebowaletimileyin2000@gmail.com
 - Build innovative web apps
 - Master full-stack development
 - Leverage data for smarter solutions
+- Start a tech company 
+- Mentor and prepare younger generations
 
 “Code + creativity = endless possibilities.”
