@@ -1,6 +1,6 @@
 👋 Hi, I’m @Haleem-17
 
-Web design, Web development, Frontend development, and Data analysis. I love building user-friendly webs and exploring data insights.
+I'm passionate about Web design, Web development, Frontend development, and Data analysis. I love building user-friendly webs and exploring data insights.
 
 🌱 Currently Learning
 - PHP, React, Java, C, Visual Basic
@@ -14,11 +14,10 @@ Web design, Web development, Frontend development, and Data analysis. I love bui
 
 💞️ Let’s Collaborate
 On web dev and data projects!  
-📫 Instagram: [Samtimz50](https://www.instagram.com/Samtimz50)
-📫 Twitter:
-[Samtimz50](hhtps://www.x.com./Samtimz50)
-📫 Email:
-samtimz.17@hotmail.com 
+📫 Let connect 
+Instagram: [Samtimz50](https://www.instagram.com/Samtimz50)
+Twitter:[Samtimz50](hhtps://www.x.com/Samtimz50)
+Email:samtimz.17@hotmail.com 
 adebowaletimileyin2000@gmail.com 
 
 😄 About Me
@@ -31,6 +30,6 @@ adebowaletimileyin2000@gmail.com
 - Master full-stack development
 - Leverage data for smarter solutions
 - Start a tech company 
-- Mentor and prepare younger generations
+- Mentor and prepare the next generation of coders
 
-“Code + creativity = endless possibilities.”
+“Code + creativity = endless possibilities.” 
