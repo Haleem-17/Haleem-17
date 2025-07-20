@@ -15,6 +15,11 @@ Web design, Web development, Frontend development, and Data analysis. I love bui
 💞️ Let’s Collaborate
 On web dev and data projects!  
 📫 Instagram: [Samtimz50](https://www.instagram.com/Samtimz50)
+📫 Twitter:
+[Samtimz50](hhtps://www.x.com./Samtimz50)
+📫 Email:
+samtimz.17@hotmail.com 
+adebowaletimileyin2000@gmail.com 
 
 😄 About Me
 - Pronouns: He/Him
