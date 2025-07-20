@@ -16,7 +16,7 @@ I'm passionate about Web design, Web development, Frontend development, and Data
 On web dev and data projects!  
 📫 Let connect 
 Instagram: [Samtimz50](https://www.instagram.com/Samtimz50)
-Twitter:[Samtimz50](hhtps://www.x.com/Samtimz50)
+Twitter: [Samtimz50](hhtps://www.x.com/Samtimz50)
 Email:samtimz.17@hotmail.com 
 adebowaletimileyin2000@gmail.com 
 
